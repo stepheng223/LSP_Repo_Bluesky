@@ -9,6 +9,7 @@ public class ETLPipeline {
     private static final String INPUT_PATH = "data/products.csv";
     private static final String OUTPUT_PATH = "data/transformed_products.csv";
 
+
     public static void main(String[] args) {
         File inputFile = new File(INPUT_PATH);
 

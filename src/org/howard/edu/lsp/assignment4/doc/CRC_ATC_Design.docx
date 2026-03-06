@@ -96,7 +96,7 @@ Collaborators:
 - DangerDetectionSystem
 - DisplaySystem
 Assumptions:
--nControllers interact through a graphical interface
+- Controllers interact through a graphical interface
 
 
 

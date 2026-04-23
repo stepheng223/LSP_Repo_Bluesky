@@ -1,0 +1,5 @@
+# Question 4 Answer
+Over the course of this semester, my perspective on using AI in programming has become more practical and realistic. At first, I saw it as something that could either help a lot or hurt learning if overused, but now I view it as a tool that programmers need to learn how to use effectively. AI is going to be around whether we like it or not, so avoiding it makes no sense. Instead, I’ve learned that the important part is understanding what the AI is doing and being able to verify and improve the code it produces.
+
+Going forward, I plan to use AI as a support tool in my programming and coursework rather than something I rely on completely. I will use it for things like debugging, breaking down concepts, and getting unstuck, but I will try to make sure I fully understand the solutions before using them. My goal is to combine my own problem-solving skills with AI to work more efficiently while still continuing to grow as a developer. I do not want to just let it be a crutch for me to breeze through but a good aid.
+
